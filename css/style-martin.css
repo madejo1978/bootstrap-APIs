@@ -5,6 +5,11 @@
     letter-spacing: 1px;
 }
 
+#jokeClicker {
+	margin-left: 45%;
+	margin-top: 2%;
+}
+ 
 /* background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.39)), url(../img/background2.jpg); */
 
 .banner {
